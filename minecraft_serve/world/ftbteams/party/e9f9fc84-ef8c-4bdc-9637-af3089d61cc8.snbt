@@ -1,0 +1,42 @@
+{
+	id: "e9f9fc84-ef8c-4bdc-9637-af3089d61cc8"
+	type: "party"
+	owner: "17584343-f855-11ee-b069-f02f74958d22"
+	ranks: {
+		17584343-f855-11ee-b069-f02f74958d22: "owner"
+		995bc588-de5a-34a2-a084-1a03cc341bea: "member"
+		3d92b8f3-d65a-3d4d-aeb8-82cb99ecafca: "member"
+		7b894672-b138-31fe-9b2d-d839b8a448db: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760065866787L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DanilinDuGrau\"}]}" }
+		{ from: "17584343-f855-11ee-b069-f02f74958d22", date: 1760065866797L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ichi_057\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760065874704L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ichi_057\"}]}" }
+		{ from: "17584343-f855-11ee-b069-f02f74958d22", date: 1760149193904L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ichi_057\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Party#e9f9fc84\"},\"text\":\"Party\"}]}" }
+		{ from: "17584343-f855-11ee-b069-f02f74958d22", date: 1760149201977L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ichi_057\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760149212905L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ichi_057\"}]}" }
+		{ from: "17584343-f855-11ee-b069-f02f74958d22", date: 1760310873553L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Davio\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760310889241L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Davio\"}]}" }
+		{ from: "17584343-f855-11ee-b069-f02f74958d22", date: 1760317003750L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"mauro\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760317017795L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"mauro\"}]}" }
+	]
+	extra: { }
+}
