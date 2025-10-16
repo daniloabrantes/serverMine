@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "c8365856-50f2-4caf-a83d-62f43a50e3e0",
+    "ownerID": "995bc588-de5a-34a2-a084-1a03cc341bea",
+    "pos": {
+      "f_123285_": -10,
+      "f_123286_": 59,
+      "f_123289_": 66
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "a0917240-0aa2-4210-9db3-7d4e9c8bf4e4",
+    "ownerID": "995bc588-de5a-34a2-a084-1a03cc341bea",
+    "pos": {
+      "f_123285_": -43,
+      "f_123286_": 70,
+      "f_123289_": 9
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "the_nether"
+    },
+    "id": "cbbb1c42-bb5f-4049-b82a-a8c341452cb2",
+    "ownerID": "995bc588-de5a-34a2-a084-1a03cc341bea",
+    "pos": {
+      "f_123285_": -3,
+      "f_123286_": 96,
+      "f_123289_": 12
+    },
+    "type": 0
+  }
+]
