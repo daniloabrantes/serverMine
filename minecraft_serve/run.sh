@@ -4,4 +4,5 @@
 # Add custom program arguments {such as nogui} to this file in the next line before the "$@" or
 #  pass them to this script directly
 #java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.19.2-43.3.5/unix_args.txt "$@"
-java -Xmx12288M -Xms12288M -jar server.jar nogui
+java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+PAUSE
