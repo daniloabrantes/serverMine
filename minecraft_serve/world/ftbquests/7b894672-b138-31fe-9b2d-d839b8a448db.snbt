@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "7b894672b13831fe9b2dd839b8a448db"
+	name: "mauro"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1760313642291L
+		6F010E22CD886969: 1760313642291L
+		0000000000000001: 1760313642291L
+		744084D7C7EA8A6C: 1760313642291L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1760313642291L
+		6F010E22CD886969: 1760313642291L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
